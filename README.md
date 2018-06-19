@@ -15,6 +15,9 @@ the delicate kanji. Additionally, as a visual as well as a
 learning aid, several sets are colored in a consistent (across
 sets) color scheme.
 
+## Download
+Please head to the [releases](https://github.com/peanatsu/shogi_printout/releases)
+
 ## License
 This set is released under a creative commons sharealike license,
 see also the LICENSE file.
