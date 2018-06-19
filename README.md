@@ -8,7 +8,7 @@ kanji in school.
 
 It is intended to lower the entry barrier for foreigners
 (meaning non-Japanese people) wanting to learn the game
-of shogi, by providing variety of kanji-free piece-sets,
+of shogi, by providing a variety of kanji-free piece-sets,
 as well as a couple of kanji-learning sets.
 
 It is also useful for visually impaired people, since the
