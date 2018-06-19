@@ -1,15 +1,13 @@
 # Western Shogi Printout-Set
 
 ## Intended audience
-This is a shogi printout piece-set for beginners
-(or otherwise) coming from a non-Japanese background,
-and therefore don't have the benefit of years of learning
-kanji in school.
+This is a collection of shogi printout piece-sets for
+beginners (or otherwise) coming from a non-Japanese background,
+who didn't have the benefit of learning kanji in school for years.
 
-It is intended to lower the entry barrier for foreigners
-(meaning non-Japanese people) wanting to learn the game
-of shogi, by providing a variety of kanji-free piece-sets,
-as well as a couple of kanji-learning sets.
+It is intended to lower the entry barrier for non-Japanese people
+wanting to learn the game of shogi, by providing a variety of
+kanji-free piece-sets, as well as a couple of kanji-learning sets.
 
 It is also useful for visually impaired people, since the
 symbolic Western sets are much easier to visually parse than
