@@ -1,14 +1,16 @@
+### license
 This work (the printout as well as the svg-source) is licensed under the
-creative commons "attribution-sharealike 3.0 unported" license,
-see also https://creativecommons.org/licenses/by-sa/3.0/deed.en
+[creative commons "attribution-sharealike 3.0 unported" license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
 
-All chess piece images are taken from wikimedia commons and are licensed under the
-same license.
+All chess piece images are taken from [wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page)
+and are licensed under the same license.
 
 The animal vector drawings from the animal-set are my original work.
 
-The used images from wikimedia are:
+
+### wikimedia files attribution
+The images used from wikimedia are:
 
 * from author [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett)
     * [king](https://commons.wikimedia.org/wiki/File:Chess_kdt45.svg)
