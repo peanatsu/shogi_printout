@@ -16,7 +16,7 @@ learning aid, several sets are colored in a consistent (across
 sets) color scheme.
 
 ## Download
-Please head to the [releases](https://github.com/peanatsu/shogi_printout/releases)
+Please head to the [release](https://github.com/peanatsu/shogi_printout/releases) section.
 
 ## License
 This set is released under a creative commons sharealike license,
