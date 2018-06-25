@@ -6,8 +6,6 @@ This work (the printout as well as the svg-source) is licensed under the
 All chess piece images are taken from [wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page)
 and are licensed under the same license.
 
-The animal vector drawings from the animal-set are my original work.
-
 
 ### wikimedia files attribution
 The images used from wikimedia are:
